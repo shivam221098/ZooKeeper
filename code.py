@@ -16,7 +16,7 @@ Switching on camera from habitat with camels...
             ; ;    ! !     ! !   ; ;     
             ; ;    ! !    ! !     ; ;
            ;,,      !,!   !,!     ;,;
-           /_I      L_I   L_I     /_I
+           /_I      L_I   L_I     /_I.
 Yey, our little camel is sunbathing!"""
 
 lion = """
